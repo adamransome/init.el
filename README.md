@@ -1,6 +1,6 @@
 # init.el
 
-A reasonably sane way of organising my ever growing GNU Emacs configuraiton
+A reasonably sane way of organising my ever growing GNU Emacs config
 
 ### Prerequisites
 
